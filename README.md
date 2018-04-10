@@ -1,6 +1,6 @@
 ### OneSignal Cordova Push Notification Plugin
-[![npm version](https://img.shields.io/npm/v/onesignal-cordova-plugin.svg)](https://www.npmjs.com/package/onesignal-cordova-plugin)
-[![npm downloads](https://img.shields.io/npm/dm/onesignal-cordova-plugin.svg)](https://www.npmjs.com/package/onesignal-cordova-plugin)
+[![npm version](https://img.shields.io/npm/v/onesignal-silent-cordova-plugin.svg)](https://www.npmjs.com/package/onesignal-silent-cordova-plugin)
+[![npm downloads](https://img.shields.io/npm/dm/onesignal-silent-cordova-plugin.svg)](https://www.npmjs.com/package/onesignal-silent-cordova-plugin)
 
 [OneSignal](https://onesignal.com/) is a free push notification service for mobile apps. 
 
