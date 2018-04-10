@@ -1,5 +1,5 @@
 {
-  "version": "2.3.3",
+  "version": "2.3.6",
   "name": "onesignal-silent-cordova-plugin",
   "cordova_name": "OneSignal Push Notifications",
   "description": "OneSignal is a high volume Push Notification service for mobile apps. In addition to basic notification delivery, OneSignal also provides tools to localize, target, schedule, and automate notifications that you send.",
@@ -48,7 +48,7 @@
     }
   ],
   "cordova": {
-    "id": "onesignal-silent-cordova-plugin",
+    "id": "onesignal-cordova-plugin",
     "platforms": [
       "android",
       "ios",
@@ -66,4 +66,3 @@
   },
   "homepage": "https://github.com/onesignal/OneSignal-Cordova-SDK#readme"
 }
-
