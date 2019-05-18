@@ -28,6 +28,5 @@ curl -X POST \
   "app_id": "8d871b89-818a-4380-8382-501f97611079",
   "content_available": true,
   "include_player_ids": ["af3e863e-22a3-45d8-8553-d9901031abc1"],
-  "data": {"foo": "bar"},
-  "contents": {"en": "another test"}
+  "data": {"foo": "bar"}
 }'
